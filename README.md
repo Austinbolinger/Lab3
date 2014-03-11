@@ -7,3 +7,7 @@ Lab3
 
 #Analysis
 So far I looked at each file and made a bus for each one. Each bus has an input and an output. The busses are linked to one another because the nibble feeds the nexys2 which feeds the nexys2 top shell output.
+
+
+#######Documentation
+C3C Kyle Jonas pointed out that I should look at each file as a bus and just read their inputs and outputs

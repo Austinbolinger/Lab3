@@ -24,12 +24,12 @@ This code was modified to achieve the requirements requested for each functional
 https://github.com/Austinbolinger/Lab3/blob/master/MealyElevatorController_Shell.vhd
 
 #Bit files
-![Single Elevator](https://github.com/Austinbolinger/Lab3/blob/master/MealyElevator.ipf?raw=true "MealyElevator")
-![Prime Numbered Floors](https://github.com/Austinbolinger/Lab3/blob/master/primeNumbers.ipf?raw=true "primeNumbers")
-![Switch Flipped Floors](https://github.com/Austinbolinger/Lab3/blob/master/changeInput.ipf?raw=true "changeInput")
+![Single Elevator](https://github.com/Austinbolinger/Lab3/blob/master/basicFunctionality.bit?raw=true "MealyElevator")
+![Prime Numbered Floors](https://github.com/Austinbolinger/Lab3/blob/master/primeNumbers.bit?raw=true "primeNumbers")
+![Switch Flipped Floors](https://github.com/Austinbolinger/Lab3/blob/master/changeInput.bit?raw=true "changeInput")
 
 ###Demo
-I have three bit files to show you still.
+I have demoed all three of my functioning bit files to you with success. 
 
 ######Documentation
 C3C Kyle Jonas pointed out that I should look at each file as a bus and just read their inputs and outputs
